@@ -1,11 +1,6 @@
 <!-- Banner Animado ou Frase de Impacto -->
 <h1 align="center">👋 Fala aí! Eu sou o João Victor</h1>
 <h3 align="center">💻 Analista de Dados | SQL Lover | Data Storyteller</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Transformando+dados+em+insights📊;Amante+de+SQL+e+Dashboards;Automação+e+Análise+de+Dados" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧭 Sobre mim
@@ -27,18 +22,6 @@
   <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=visual-basic&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [📊 SQL Insights](https://github.com/Jao-Alves/sql-insights) | Repositório com estudos e consultas SQL para análise de dados reais. | PostgreSQL, SQL Server |
-| [📈 Power BI Dashboards](https://github.com/Jao-Alves/dashboard-vendas) | Dashboards interativos para monitorar KPIs e métricas de negócios. | Power BI, DAX |
-| [⚡ Data Automation](https://github.com/Jao-Alves/api-extractor) | Extração e automação de dados via API REST. | Python, REST API, SQL |
-
-> 💡 *Dica:* Fixe seus melhores projetos no topo do perfil para que sejam os primeiros a aparecer para recrutadores.
 
 ---
 
